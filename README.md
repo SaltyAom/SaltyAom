@@ -1,0 +1,1 @@
+![Akari has arrived](https://raw.githubusercontent.com/SaltyAom/SaltyAom/master/akari-has-arrived.gif)
