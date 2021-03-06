@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/SaltyAom/SaltyAom/master/akari.gif" alt="Akari has arrived">
+<img src="https://raw.githubusercontent.com/SaltyAom/SaltyAom/master/クレー.gif" alt="クレー">
 
 ### Github Stats
 [![Saltyaom's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltyaom&theme=default)](https://github.com/anuraghazra/github-readme-stats)
