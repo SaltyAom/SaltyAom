@@ -40,7 +40,6 @@ Like to create stupid and random thing.
   - Left click to [Pat Platlets](https://platelets.vercel.app/)
   - Left click to [Pat Senko](http://pat-senko.vercel.app/)
   - Left click to [Angry Miko](https://miko-test.vercel.app/)
-  - 
 
 Contribute to `#100DaysOfCode` for over 300 days.
 
