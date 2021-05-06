@@ -16,10 +16,10 @@ Like to create stupid and random thing.
 - Web optimization
 
 ## Feature Projects:
-- [Opener Studio](https://opener.studio/) - [Repo](https://github.com/SaltyAom/opener-studio)
+- [(NSFW) Opener Studio](https://opener.studio/) - [Repo](https://github.com/SaltyAom/opener-studio)
   - nHentai but it's Pinterest without ads and faster.
   - [Hear about people thought on Reddit](https://www.reddit.com/r/nhentai/comments/j9qf9m/i_made_nhentai_but_its_pinterest/)
-- [nhql](https://api.opener.studio/graphiql) - [Repo](https://github.com/SaltyAom/nhql)
+- [(NSFW) nhql](https://api.opener.studio/graphiql) - [Repo](https://github.com/SaltyAom/nhql)
   - Fast GraphQL Reverse Proxy Server for nHentai written in Rust.
 - [Salty Blog](https://blog.saltyaom.com) - [Repo](https://github.com/SaltyAom/salty-blog)
   - Blazing fast web blog under 50KB.
