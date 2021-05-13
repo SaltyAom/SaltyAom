@@ -4,7 +4,9 @@ I'm lazy fullstack developer working at [BRIKL](https://www.brikl.com/).
 
 Like to create stupid and random thing.
 
-<img src="https://raw.githubusercontent.com/SaltyAom/SaltyAom/master/クレー.gif" alt="クレー">
+<img width=400 src="https://user-images.githubusercontent.com/35027979/118144418-a38b9680-b436-11eb-9649-f54c8bbf5346.JPG" alt="Rosmontis" />
+
+#### Taken Rosmontis artwork from [そめやや](https://www.pixiv.net/en/users/7950395)
 
 ## Familiar with:
 - TypeScript
