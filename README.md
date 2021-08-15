@@ -1,12 +1,12 @@
-## Hi, my name is SaltyAom.
+## Hi, SaltyAom here.
 
 I'm lazy fullstack developer working at [BRIKL](https://www.brikl.com/).
 
-Like to create stupid and random thing.
+Like to create random stupid thing.
 
 <img width=400 src="https://user-images.githubusercontent.com/35027979/118144418-a38b9680-b436-11eb-9649-f54c8bbf5346.JPG" alt="Rosmontis" />
 
-#### Taken Rosmontis artwork from [そめやや](https://www.pixiv.net/en/users/7950395)
+#### Rosmontis illust from [そめやや](https://www.pixiv.net/en/users/7950395)
 
 ## Familiar with:
 - TypeScript
@@ -21,6 +21,7 @@ Like to create stupid and random thing.
 - [(NSFW) Opener Studio](https://opener.studio/) - [Repo](https://github.com/SaltyAom/opener-studio)
   - nHentai but it's Pinterest without ads and faster.
   - [Hear about people thought on Reddit](https://www.reddit.com/r/nhentai/comments/j9qf9m/i_made_nhentai_but_its_pinterest/)
+  - [Atago Staging](https://atago.opener.studio)
 - [(NSFW) nhql](https://api.opener.studio/graphiql) - [Repo](https://github.com/SaltyAom/nhql)
   - Fast GraphQL Reverse Proxy Server for nHentai written in Rust.
 - [Salty Blog](https://blog.saltyaom.com) - [Repo](https://github.com/SaltyAom/salty-blog)
@@ -33,11 +34,11 @@ Like to create stupid and random thing.
   - [Documentation Repo](https://github.com/saltyAom/niku-docs)
 - [Prophet Launchpad](http://prophet-launchpad.netlify.app/) - [Repo](https://github.com/SaltyAom/prophet-launchpad)
   - Button like but with `prophet`.
-- [Cool design for webring](https://webring.saltyaom.com) - [Repo](https://github.com/saltyAom/saltyaom-webring)
+- [Cool design for webring](https://ouroboros-ring.netlify.app) - [Repo](https://github.com/saltyAom/saltyaom-webring)
 - Some random thing
-  - Left click to [Pat Platlets](https://platelets.vercel.app/) - [Repo](https://github.com/saltyAom/platelets)
-  - Left click to [Pat Senko](http://pat-senko.vercel.app/) - [Repo](https://github.com/saltyAom/pat-senko)
-  - Left click to [Angry Miko](https://miko-test.vercel.app/) - [Repo](https://github.com/saltyAom/miko)
+  - Left click to [Pat Platlets](https://platelets.netlify.app/) - [Repo](https://github.com/saltyAom/platelets)
+  - Left click to [Pat Senko](http://pat-senko.netlify.app/) - [Repo](https://github.com/saltyAom/pat-senko)
+  - Left click to [Angry Miko](https://angry-miko.netlify.app/) - [Repo](https://github.com/saltyAom/miko)
 
 Contribute to `#100DaysOfCode` for over 300 days.
 
