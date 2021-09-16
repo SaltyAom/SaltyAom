@@ -9,13 +9,25 @@ Like to create random stupid thing.
 #### Rosmontis illust from [そめやや](https://www.pixiv.net/en/users/7950395)
 
 ## Familiar with:
-- TypeScript
-- React/Preact
-- Next.js
+- JavaScript / TypeScript
 - Rust
-- Flutter
-- Firebase
-- Web optimization
+- Dart
+
+## In domains of:
+- Fullstack Web
+  - React/Preact + Next.js
+  - Fastify
+- Mobile
+  - Flutter
+  - React Native
+- Server Side
+  - GraphQL
+  - ZeroMQ
+- Database
+  - Firebase
+  - Prisma
+- etc
+  - Web optimization
 
 ## Feature Projects:
 - [(NSFW) Opener Studio](https://opener.studio/) - [Repo](https://github.com/SaltyAom/opener-studio)
