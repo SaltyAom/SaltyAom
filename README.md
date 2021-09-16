@@ -4,7 +4,7 @@ I'm lazy fullstack developer working at [BRIKL](https://www.brikl.com/).
 
 Like to create random stupid thing.
 
-<img width=400 src="https://user-images.githubusercontent.com/35027979/118144418-a38b9680-b436-11eb-9649-f54c8bbf5346.JPG" alt="Rosmontis" />
+<img width=400 src="https://user-images.githubusercontent.com/35027979/133552450-0dd6e24e-6c80-4658-be9b-72fd8308efbd.png" alt="Elaina eating borgor" />
 
 #### Rosmontis illust from [そめやや](https://www.pixiv.net/en/users/7950395)
 
