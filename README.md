@@ -6,8 +6,6 @@ Like to create random stupid thing.
 
 <img width=400 src="https://user-images.githubusercontent.com/35027979/133552450-0dd6e24e-6c80-4658-be9b-72fd8308efbd.png" alt="Elaina eating borgor" />
 
-#### Rosmontis illust from [そめやや](https://www.pixiv.net/en/users/7950395)
-
 ## Familiar with:
 - JavaScript / TypeScript
 - Rust
