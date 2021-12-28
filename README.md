@@ -31,6 +31,8 @@ Like to create random thing.
 
 ## Feature Projects:
 #### Product:
+- [Lagrange](https://github.com/SaltyAom/lagrange) - [Repo](https://github.com/SaltyAom/lagrange)
+  - A simple API client for a simple task.
 - [(NSFW) Opener Studio](https://opener.studio/) - [Repo](https://github.com/SaltyAom/opener-studio)
   - nHentai but it's Pinterest without ads and faster.
   - [Hear about people thought on Reddit](https://www.reddit.com/r/nhentai/comments/j9qf9m/i_made_nhentai_but_its_pinterest/)
