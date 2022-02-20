@@ -1,10 +1,12 @@
+[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
 ## Hi, SaltyAom here.
+Lazy [Takodachi](https://youtu.be/Te8erZps3U0) / Cosplayer / Fullstack developer.
 
-I'm lazy fullstack developer working at [BRIKL](https://www.brikl.com/), specialize in Web Optimization.
+Part-time at [BRIKL](https://www.brikl.com), specialize in Web Optimization and research in toolings and Developer Experience.
 
-Like to create random thing.
+Like to create random thing. 
 
-<img width=400 src="https://user-images.githubusercontent.com/35027979/133552450-0dd6e24e-6c80-4658-be9b-72fd8308efbd.png" alt="Elaina eating borgor" />
+<img width=400 src="https://user-images.githubusercontent.com/35027979/154855266-342e1901-7f57-465e-ad0d-2f9831ee031f.JPG" alt="Yae at MacDonald" />
 
 ## Familiar with:
 - JavaScript / TypeScript
@@ -16,18 +18,18 @@ Like to create random thing.
   - React / Next.js
   - Svelte / Svelte Kit
 - Backend Web
-  - Node: Express / Fastify / Nest.js
+  - Node: Fastify / Nest.js
   - Go: Fiber
   - Rust: Actix Web
 - Mobile
   - Cross Platform: Flutter, React Native
-- Server Side
-  - GraphQL
-  - ZeroMQ
 - Database
   - SQL: SQLite / Postgres
   - NoSQL: Cassandra / MongoDB / Firestore
   - ORM: Prisma / Mongoose / SQLx (Rust)
+- Additional
+  - GraphQL
+  - ZeroMQ
 
 ## Feature Projects:
 #### Product:
@@ -48,12 +50,17 @@ Like to create random thing.
   - [Forsteri CLI](https://github.com/saltyAom/forsteri-cli) for generating Forsteri project.
 - Vanilla Milk - [Repo](https://github.com/saltyaom/vanilla-milk)
   - Experimental library for creating Web Component with Virtual DOM using template stirng.
+- Usagi - [Repo](https://github.com/saltyAom/usagi)
+  - High level library for effortlessly using RabbitMQ in Nodejs.
+- Fluent Schema Validator - [Repo](https://github.com/SaltyAom/fluent-schema-validator)
+  - Validate Fluent JSON Schema constraints on fly.
 
 #### Random Thing:
+- [React but Thai](https://github.com/SaltyAom/react-but-thai)
 - [Prophet Launchpad](http://prophet-launchpad.netlify.app/) - [Repo](https://github.com/SaltyAom/prophet-launchpad)
   - Button like but with `prophet`.
 - [Cool design for webring](https://ouroboros-ring.netlify.app) - [Repo](https://github.com/saltyAom/saltyaom-webring)
-- Anime girl stuff:
+- Weeb stuff:
   - Left click to [Pat Platlets](https://platelets.netlify.app/) - [Repo](https://github.com/saltyAom/platelets)
   - Left click to [Pat Senko](http://pat-senko.netlify.app/) - [Repo](https://github.com/saltyAom/pat-senko)
   - Left click to [Angry Miko](https://angry-miko.netlify.app/) - [Repo](https://github.com/saltyAom/miko)
