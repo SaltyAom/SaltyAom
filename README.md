@@ -1,13 +1,11 @@
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
 ## Hi, SaltyAom here.
-Lazy [Takodachi](https://youtu.be/Te8erZps3U0) / Cosplayer / Fullstack developer.
+Lazy [Takodachi](https://youtu.be/Te8erZps3U0) / [Cosplayer](https://twitter.com/saltyAom/status/1533009674261233666) / Fullstack developer.
 
 Part-time at [BRIKL](https://www.brikl.com), specialize in Web Optimization and research in toolings and Developer Experience.
 
-Like to create random thing. 
-
-<img width=400 src="https://user-images.githubusercontent.com/35027979/154855266-342e1901-7f57-465e-ad0d-2f9831ee031f.JPG" alt="Yae at MacDonald" />
-
+[<img align=center width=300 height=300 src=https://user-images.githubusercontent.com/35027979/172061535-4fc5b0b7-4c78-44ee-9549-40ada89ced74.gif alt="Internet Overdose" />](https://youtu.be/BnkhBwzBqlQ)
+  
 ## Familiar with:
 - JavaScript / TypeScript
 - Rust
