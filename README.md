@@ -5,7 +5,7 @@ Lazy [Takodachi](https://youtu.be/Te8erZps3U0) / [Cosplayer](https://twitter.com
 Part-time at [BRIKL](https://www.brikl.com), specialize in Web Optimization and research in toolings and Developer Experience.
 
 [<img align=center width=300 height=300 src=https://user-images.githubusercontent.com/35027979/172061535-4fc5b0b7-4c78-44ee-9549-40ada89ced74.gif alt="Internet Overdose" />](https://youtu.be/BnkhBwzBqlQ)
-  
+
 ## Familiar with:
 - JavaScript / TypeScript
 - Rust
@@ -43,6 +43,8 @@ Part-time at [BRIKL](https://www.brikl.com), specialize in Web Optimization and 
 - [Niku](https://niku.saltyaom.com) - [Repo](https://github.com/SaltyAom/niku)
   - Effortless property builder for composing maintainable Flutter UI
   - [Documentation Repo](https://github.com/saltyAom/niku-docs)
+- KingWorld [Repo](https://github.com/saltyaom/kingworld) 
+  - Fast, and friendly Bun web framework inspired by Fastify.
 - Forsteri - [Repo](https://github.com/SaltyAom/forsteri)
   - Experimental library for creating reusable reactive Web Component with Virtual DOM in 2KB (gzipped) with JSX syntax.
   - [Forsteri CLI](https://github.com/saltyAom/forsteri-cli) for generating Forsteri project.
