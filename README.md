@@ -4,9 +4,10 @@ Lazy [Takodachi](https://youtu.be/Te8erZps3U0) / [Cosplayer](https://twitter.com
 
 Part-time at [BRIKL](https://www.brikl.com), specialize in Web Optimization and research in toolings and Developer Experience.
 
-[<img align=center width=300 height=300 src=https://user-images.githubusercontent.com/35027979/172061535-4fc5b0b7-4c78-44ee-9549-40ada89ced74.gif alt="Internet Overdose" />](https://youtu.be/BnkhBwzBqlQ)
+<img src=https://user-images.githubusercontent.com/35027979/198816875-2bc9704e-c96d-4472-adb7-1bdb9d461e72.gif width=360 height=360 alt="Mutsuki" />
 
 ## Familiar with:
+
 - JavaScript / TypeScript
 - Rust
 - Flutter / Dart
