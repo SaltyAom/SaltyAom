@@ -2,7 +2,7 @@
 ## Hi, SaltyAom here.
 I'm a lazy developer and cosplayer.
 
-Platform Architect at [BRIKL](https://www.brikl.com), mostly in optimization.
+**Ex** Platform Architect at [BRIKL](https://www.brikl.com).
 
 <img width=600 src=https://user-images.githubusercontent.com/35027979/209817811-8e8909c5-61ab-4a2f-931b-6ebd7877005c.jpg alt="Cosnatsu xMas 2022" />
 
@@ -10,9 +10,9 @@ Platform Architect at [BRIKL](https://www.brikl.com), mostly in optimization.
 
 ---
 
-I like opensource that improve quality-of-life, and sometime I made one.
+I like opensource that improve quality-of-life, and sometime made one.
 
-I created [elysia](https://elysiajs.com), a Bun web framework with end-to-end type safety like tRPC:
+I created [elysia](https://elysiajs.com), a Bun web framework with end-to-end type safety:
 
 https://user-images.githubusercontent.com/35027979/209819477-fff2600b-6342-4231-a28d-6dd1cbaf88e3.mp4
 
