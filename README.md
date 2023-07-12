@@ -4,7 +4,7 @@ I'm a lazy developer and cosplayer.
 
 **Ex** Platform Architect at [BRIKL](https://www.brikl.com).
 
-<img width=600 src=https://user-images.githubusercontent.com/35027979/209817811-8e8909c5-61ab-4a2f-931b-6ebd7877005c.jpg alt="Cosnatsu xMas 2022" />
+<img src=https://github.com/SaltyAom/SaltyAom/assets/35027979/ba0e4b4c-58cc-4129-9ac1-f4457614514a alt="SaltyAom's Yae at Kokoro Cosplay 2023" />
 
 ###### I'm a guy tho
 
