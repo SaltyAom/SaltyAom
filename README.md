@@ -4,7 +4,8 @@ I'm a lazy developer and cosplayer.
 
 **Ex** Platform Architect at [BRIKL](https://www.brikl.com).
 
-<img src=https://github.com/SaltyAom/SaltyAom/assets/35027979/ba0e4b4c-58cc-4129-9ac1-f4457614514a alt="SaltyAom's Yae at Kokoro Cosplay 2023" />
+![SaltyAom's Raiden Shogun cosplay](https://github.com/SaltyAom/SaltyAom/assets/35027979/a5fb5435-79a2-4dc7-9eb8-dd6c8af5969e)
+
 
 ###### I'm a guy tho
 
