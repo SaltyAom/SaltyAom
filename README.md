@@ -88,7 +88,7 @@ Here's my go-to tools for creating something:
   - Experimental library for creating reusable reactive Web Component with Virtual DOM in 2KB (gzipped) with JSX syntax.
   - [Forsteri CLI](https://github.com/saltyAom/forsteri-cli) for generating Forsteri project.
 - Vanilla Milk - [Repo](https://github.com/saltyaom/vanilla-milk)
-  - Experimental library for creating Web Component with Virtual DOM using template stirng.
+  - Experimental library for creating Web Component with Virtual DOM using template string.
 - Usagi - [Repo](https://github.com/saltyAom/usagi)
   - High level library for effortlessly using RabbitMQ in Nodejs.
   - At the time, RabbitMQ doesn't support async-await yet.
