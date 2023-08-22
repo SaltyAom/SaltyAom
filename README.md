@@ -1,71 +1,40 @@
-[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
 ## Hi, SaltyAom here.
-I'm a lazy developer and cosplayer.
+Full-time Open Source developer and cosplayer.
+
+I made Open Source to make my life a bit lazier.
 
 **Ex** Platform Architect at [BRIKL](https://www.brikl.com).
 
-![SaltyAom's Raiden Shogun cosplay](https://github.com/SaltyAom/SaltyAom/assets/35027979/a5fb5435-79a2-4dc7-9eb8-dd6c8af5969e)
+<!--- ![SaltyAom's Raiden Shogun cosplay](https://github.com/SaltyAom/SaltyAom/assets/35027979/a5fb5435-79a2-4dc7-9eb8-dd6c8af5969e) --->
 
+<p align=center>
+  <img width=400 src=https://github.com/SaltyAom/SaltyAom/assets/35027979/a141c0e8-e580-4cee-9167-ec3bfeaff93f alt="SaltyAom's Rin cosplay" />
+</p>
 
-###### I'm a guy tho
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,swift,rust,flutter,nodejs,react,nextjs,vue,nuxtjs,svelte,tailwind,tauri,nestjs,prisma,graphql,postgresql,planetscale,redis,firebase,actix,docker,kubernetes,cloudflare,aws,gcp" />
+  </a>
+</p>
+
+<br />
+
+<p align=center>
+  <img alt="Saltyaom's GitHub stats" src=https://github-readme-stats.vercel.app/api?username=saltyaom&theme=default)](https://github.com/anuraghazra/github-readme-stats />
+  <img alt="Top Langs" src=https://github-readme-stats.vercel.app/api/top-langs/?username=saltyaom&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats />
+</p>
 
 ---
 
-I like opensource that improve quality-of-life, and sometime made one.
+Maintain [Elysia](https://elysiajs.com), ergonomic framework for Human end-to-end type safety:
+<img width="1624" alt="Elysia Landing" src="https://github.com/SaltyAom/SaltyAom/assets/35027979/0187047e-b769-4634-aabf-7b74867ddfb5">
 
-I created [elysia](https://elysiajs.com), a Bun web framework with end-to-end type safety:
-
-https://user-images.githubusercontent.com/35027979/209819477-fff2600b-6342-4231-a28d-6dd1cbaf88e3.mp4
-
-Speak at some local tech event, and help organize like:
+Speaks at several tech events:
 - BKK.js
 - Dev Mountain Festival
 - Stupid Hackathon
 
-And would like to speak more at tech event, if you invite me then I happy with most of the time.
-
-## Language
-I'm comfortable with the following language:
-
-- Thai (I'm native)
-- English
-- TypeScript
-- Rust
-- Dart (for Flutter)
-- C#
-
-## Preference:
-Here's my go-to tools for creating something:
-
-- Frontend Web:
-  - React / Nextjs
-  - Svelte / Svelte Kit
-  - Vue / Nuxt
-- Backend Web:
-  - Elysia
-  - Fastify
-  - Fiber
-  - Actix Web
-- Mobile:
-  - Flutter with [Niku](https://niku.saltyaom.com)
-  - React Native
-  - iOS: Swift UI
-- Database:
-  - Postgres
-  - MongoDB
-  - ScyllaDB
-  - MySQL with Vitess
-  - Firebase Realtime Database / Firestore
-  - ORM: TypeORM, SQLX (Rust)
-- Others:
-  - Firebase
-  - Supabase
-  - PlanetScale
-  - Pulumi
-- Cloud:
-  - Serverless [deploys.app](https://deploys.app)
-  - Google Cloud Platform
-  - Cloudflare Stack (like Cloudflare Worker, D1)
+Welcome to speak at your local event (will ask if I can cosplay to speak)
 
 ## Stuff I made:
 #### Software:
@@ -81,6 +50,8 @@ Here's my go-to tools for creating something:
 - Elysia [Repo](https://github.com/elysiajs/elysia)
   - Fast, and friendly Bun web framework
   - End-to-end type safe framework for TypeScript
+- Mobius [Repo](https://github.com/saltyaom/mobius)
+  - GraphQL to TypeScript without code gen, purely in Template Literal
 - [Niku](https://niku.saltyaom.com) - [Repo](https://github.com/SaltyAom/niku)
   - Effortless property builder for composing maintainable Flutter UI
   - [Documentation Repo](https://github.com/saltyAom/niku-docs)
@@ -102,10 +73,5 @@ Here's my go-to tools for creating something:
   - Left click to [Pat Platlets](https://platelets.netlify.app/) - [Repo](https://github.com/saltyAom/platelets)
   - Left click to [Pat Senko](http://pat-senko.netlify.app/) - [Repo](https://github.com/saltyAom/pat-senko)
   - Left click to [Angry Miko](https://angry-miko.netlify.app/) - [Repo](https://github.com/saltyAom/miko)
-
-### Github Stats
-[![Saltyaom's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltyaom&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saltyaom&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src=https://user-images.githubusercontent.com/35027979/198816875-2bc9704e-c96d-4472-adb7-1bdb9d461e72.gif width=360 height=360 alt="Mutsuki" />
