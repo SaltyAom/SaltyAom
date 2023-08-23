@@ -26,7 +26,7 @@ I made Open Source to make my life a bit lazier.
 
 ---
 
-Maintain [Elysia](https://elysiajs.com), ergonomic framework for Human end-to-end type safety:
+Maintain [Elysia](https://elysiajs.com), ergonomic framework for Human with end-to-end type safety:
 <img width="1624" alt="Elysia Landing" src="https://github.com/SaltyAom/SaltyAom/assets/35027979/0187047e-b769-4634-aabf-7b74867ddfb5">
 
 Speaks at several tech events:
