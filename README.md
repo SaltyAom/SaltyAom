@@ -7,8 +7,10 @@ I made Open Source to make my life a bit lazier.
 
 <!--- ![SaltyAom's Raiden Shogun cosplay](https://github.com/SaltyAom/SaltyAom/assets/35027979/a5fb5435-79a2-4dc7-9eb8-dd6c8af5969e) --->
 
+<!--- <img width=400 src=https://github.com/SaltyAom/SaltyAom/assets/35027979/a141c0e8-e580-4cee-9167-ec3bfeaff93f alt="SaltyAom's Rin cosplay" /> --->
+
 <p align=center>
-  <img width=400 src=https://github.com/SaltyAom/SaltyAom/assets/35027979/a141c0e8-e580-4cee-9167-ec3bfeaff93f alt="SaltyAom's Rin cosplay" />
+  <img width=400 src=https://github.com/SaltyAom/SaltyAom/assets/35027979/a3f0dc97-afdb-419d-b992-ff3e8f479634 alt="SaltyAom's Dorothy cosplay" />
 </p>
 
 <p align=center>
