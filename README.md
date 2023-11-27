@@ -3,19 +3,17 @@ Full-time Open Source developer and cosplayer.
 
 I made Open Source to make my life a bit lazier.
 
-**Ex** Platform Architect at [BRIKL](https://www.brikl.com).
-
 <!--- ![SaltyAom's Raiden Shogun cosplay](https://github.com/SaltyAom/SaltyAom/assets/35027979/a5fb5435-79a2-4dc7-9eb8-dd6c8af5969e) --->
 
 <!--- <img width=400 src=https://github.com/SaltyAom/SaltyAom/assets/35027979/a141c0e8-e580-4cee-9167-ec3bfeaff93f alt="SaltyAom's Rin cosplay" /> --->
 
 <p align=center>
-  <img width=400 src=https://github.com/SaltyAom/SaltyAom/assets/35027979/a3f0dc97-afdb-419d-b992-ff3e8f479634 alt="SaltyAom's Dorothy cosplay" />
+  <img src=https://github.com/SaltyAom/SaltyAom/assets/35027979/347375a9-099d-4149-971f-21a9c162421b alt="SaltyAom's Nightingale cosplay" />
 </p>
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,swift,rust,flutter,nodejs,react,nextjs,vue,nuxtjs,svelte,tailwind,tauri,nestjs,prisma,graphql,postgresql,planetscale,redis,firebase,actix,docker,kubernetes,cloudflare,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=typescript,swift,rust,flutter,nodejs,react,nextjs,vue,nuxtjs,svelte,tailwind,tauri,nestjs,prisma,graphql,postgresql,planetscale,redis,firebase,actix,docker,cloudflare,aws,gcp" />
   </a>
 </p>
 
@@ -38,17 +36,7 @@ Speaks at several tech events:
 
 Welcome to speak at your local event (will ask if I can cosplay to speak)
 
-## Stuff I made:
-#### Software:
-- [Lagrange](https://github.com/SaltyAom/lagrange) - [Repo](https://github.com/SaltyAom/lagrange)
-  - A simple API client for a simple task.
-- [(NSFW) Hifumin](https://hifumin.app) - [Repo](https://github.com/SaltyAom/hifumin)
-  - Basically nHentai but faster in every way
-  - [Hear about people thought on Reddit](https://www.reddit.com/r/nhentai/comments/j9qf9m/i_made_nhentai_but_its_pinterest/)
-- [Seele](https://seele.hifumin.app) - [Repo](https://github.com/SaltyAom/opener-akashic)
-  - Probably the fastest nHentai GraphQL API thanks to fully-cached and the edge (running on Cloudflare Enterprise)
-
-#### Library:
+#### Stuff I made
 - Elysia [Repo](https://github.com/elysiajs/elysia)
   - Fast, and friendly Bun web framework
   - End-to-end type safe framework for TypeScript
