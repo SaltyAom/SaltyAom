@@ -1,14 +1,14 @@
-## Hi, SaltyAom here.
-Full-time Open Source developer and cosplayer.
+# SaltyAom
+I make Open Source and cosplay
 
-I made Open Source to make my life a bit lazier.
+Create [Elysia](https://elysiajs.com), an ergonomic framework for Humans.
 
 <!--- ![SaltyAom's Raiden Shogun cosplay](https://github.com/SaltyAom/SaltyAom/assets/35027979/a5fb5435-79a2-4dc7-9eb8-dd6c8af5969e) --->
 
 <!--- <img width=400 src=https://github.com/SaltyAom/SaltyAom/assets/35027979/a141c0e8-e580-4cee-9167-ec3bfeaff93f alt="SaltyAom's Rin cosplay" /> --->
 
 <p align=center>
-  <img src=https://github.com/SaltyAom/SaltyAom/assets/35027979/347375a9-099d-4149-971f-21a9c162421b alt="SaltyAom's Nightingale cosplay" />
+  <img src=https://github.com/SaltyAom/SaltyAom/assets/35027979/68725802-2675-4a11-ad45-eb1bcc3e5827 alt="SaltyAom's Nightingale cosplay" />
 </p>
 
 <p align=center>
@@ -20,45 +20,33 @@ I made Open Source to make my life a bit lazier.
 <br />
 
 <p align=center>
-  <img alt="Saltyaom's GitHub stats" src=https://github-readme-stats.vercel.app/api?username=saltyaom&theme=default)](https://github.com/anuraghazra/github-readme-stats />
-  <img alt="Top Langs" src=https://github-readme-stats.vercel.app/api/top-langs/?username=saltyaom&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats />
+<!--   <img alt="Saltyaom's GitHub stats" src=https://github-readme-stats.vercel.app/api?username=saltyaom&theme=default)](https://github.com/anuraghazra/github-readme-stats /> -->
 </p>
 
 ---
 
-Maintain [Elysia](https://elysiajs.com), ergonomic framework for Human with end-to-end type safety:
-<img width="1624" alt="Elysia Landing" src="https://github.com/SaltyAom/SaltyAom/assets/35027979/0187047e-b769-4634-aabf-7b74867ddfb5">
+I create and maintain [Elysia](https://elysiajs.com), an ergonomic framework for Humans.
+
+![295980495-879e297e-857d-419a-a1e2-fc6542e34b6b](https://github.com/SaltyAom/SaltyAom/assets/35027979/252cbb55-d7a6-4e1f-922d-c3cc8c651b1e)
 
 Speaks at several tech events:
 - BKK.js
 - Dev Mountain Festival
 - Stupid Hackathon
 
-Welcome to speak at your local event (will ask if I can cosplay to speak)
+Looking forward to speaks at your events (I can cosplay to speak at your event too)
 
-#### Stuff I made
-- Elysia [Repo](https://github.com/elysiajs/elysia)
-  - Fast, and friendly Bun web framework
-  - End-to-end type safe framework for TypeScript
-- Mobius [Repo](https://github.com/saltyaom/mobius)
-  - GraphQL to TypeScript without code gen, purely in Template Literal
-- [Niku](https://niku.saltyaom.com) - [Repo](https://github.com/SaltyAom/niku)
-  - Effortless property builder for composing maintainable Flutter UI
-  - [Documentation Repo](https://github.com/saltyAom/niku-docs)
-- Forsteri - [Repo](https://github.com/SaltyAom/forsteri)
-  - Experimental library for creating reusable reactive Web Component with Virtual DOM in 2KB (gzipped) with JSX syntax.
-  - [Forsteri CLI](https://github.com/saltyAom/forsteri-cli) for generating Forsteri project.
-- Vanilla Milk - [Repo](https://github.com/saltyaom/vanilla-milk)
-  - Experimental library for creating Web Component with Virtual DOM using template stirng.
-- Usagi - [Repo](https://github.com/saltyAom/usagi)
-  - High level library for effortlessly using RabbitMQ in Nodejs.
-  - At the time, RabbitMQ doesn't support async-await yet.
+## Stuff I made
+- [Elysia](https://elysiajs.com): Ergonomic framework for Humans
+- [Niku](https://niku.saltyaom.com): Effortlessly compose your Flutter UI for humans.
+- [Mobius](https://github.com/saltyaom/mobius) - GraphQL schema to TypeScript without code generation
+- Dorothy: Character AI at home [(Repo)](https://github.com/SaltyAom/dorothy): Configurable Character AI like using Gemini or GPT or Cloudflare AI interchangeable with low price stack and full type-safety
+- [Skooldio's TypeScript Mastery Corse](https://www.skooldio.com/bundles/typescript-mastery-series)
 
-#### Random Thing:
+### Random thing I made
 - [React but Thai](https://github.com/SaltyAom/react-but-thai)
 - [Prophet Launchpad](http://prophet-launchpad.netlify.app/) - [Repo](https://github.com/SaltyAom/prophet-launchpad)
-  - Button like but with `prophet`.
-- [Cool design for webring](https://ouroboros-ring.netlify.app) - [Repo](https://github.com/saltyAom/saltyaom-webring)
+- [Cool design for Thai webring](https://ouroboros-ring.netlify.app) - [Repo](https://github.com/saltyAom/saltyaom-webring)
 - Weeb stuff:
   - Left click to [Pat Platlets](https://platelets.netlify.app/) - [Repo](https://github.com/saltyAom/platelets)
   - Left click to [Pat Senko](http://pat-senko.netlify.app/) - [Repo](https://github.com/saltyAom/pat-senko)
