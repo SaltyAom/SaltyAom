@@ -7,8 +7,10 @@ Create [Elysia](https://elysiajs.com), an ergonomic framework for Humans.
 
 <!--- <img width=400 src=https://github.com/SaltyAom/SaltyAom/assets/35027979/a141c0e8-e580-4cee-9167-ec3bfeaff93f alt="SaltyAom's Rin cosplay" /> --->
 
+<!--- <img src=https://github.com/SaltyAom/SaltyAom/assets/35027979/68725802-2675-4a11-ad45-eb1bcc3e5827 alt="SaltyAom's Nightingale cosplay" /> --->
+
 <p align=center>
-  <img src=https://github.com/SaltyAom/SaltyAom/assets/35027979/68725802-2675-4a11-ad45-eb1bcc3e5827 alt="SaltyAom's Nightingale cosplay" />
+  <img src=https://github.com/SaltyAom/SaltyAom/assets/35027979/0ad0cf6f-cfdc-4450-9113-d0b31342b907 alt="SaltyAom's Haruna cosplay" />
 </p>
 
 <p align=center>
