@@ -27,10 +27,6 @@ Create [Elysia](https://elysiajs.com), an ergonomic framework for Humans.
 
 ---
 
-I create and maintain [Elysia](https://elysiajs.com), an ergonomic framework for Humans.
-
-![295980495-879e297e-857d-419a-a1e2-fc6542e34b6b](https://github.com/SaltyAom/SaltyAom/assets/35027979/252cbb55-d7a6-4e1f-922d-c3cc8c651b1e)
-
 Speaks at several tech events:
 - BKK.js
 - Dev Mountain Festival
