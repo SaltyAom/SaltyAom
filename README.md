@@ -53,5 +53,5 @@ Looking forward to speaks at your events (I can cosplay to speak at your event t
 <img src=https://user-images.githubusercontent.com/35027979/198816875-2bc9704e-c96d-4472-adb7-1bdb9d461e72.gif width=360 height=360 alt="Mutsuki" />
 
 ```math
-\ce{$&#x5C;unicode[goombafont; z-index: -10; pointer-events: none; position: fixed; top: 0; left: 0; width: 100%; opacity: 0.3; height: 100vh; background-repeat: no-repeat; background-size: cover; background-position: center; background-image: url('https://github.com/SaltyAom/SaltyAom/assets/35027979/c79e9e28-be8a-4391-975f-2e57485c3f14');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; z-index: -10; pointer-events: none; position: fixed; top: 0; left: 0; width: 100%; opacity: 0.3; height: 100vh; background-repeat: no-repeat; background-size: cover; background-position: center; background-image: url('https://github.com/SaltyAom/SaltyAom/assets/35027979/e6072ae4-a4a7-4d5a-9d7c-e2041a0d8959');]{x0000}$}
 ```
