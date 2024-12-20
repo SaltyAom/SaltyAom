@@ -10,12 +10,12 @@ Create [Elysia](https://elysiajs.com), an ergonomic framework for Humans.
 <!--- <img src=https://github.com/SaltyAom/SaltyAom/assets/35027979/0ad0cf6f-cfdc-4450-9113-d0b31342b907 alt="SaltyAom's Haruna cosplay" /> --->
 
 <p align=center>
-  <img src=https://github.com/SaltyAom/SaltyAom/assets/35027979/27838147-9161-419a-b58b-ee3f05bf456c alt="SaltyAom's Tingyun cosplay" />
+  <img src=https://github.com/user-attachments/assets/dc19013a-3275-4cd8-ade4-ea122a8cddc8 alt="SaltyAom's Tingyun cosplay" />
 </p>
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,swift,rust,flutter,nodejs,react,nextjs,vue,nuxtjs,svelte,tailwind,tauri,nestjs,prisma,graphql,postgresql,planetscale,redis,firebase,actix,docker,cloudflare,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=typescript,nodejs,react,nextjs,vue,nuxtjs,svelte,astro,tailwind,tauri,swift,rust,flutter,prisma,graphql,postgresql,planetscale,redis,firebase,actix,docker,cloudflare,aws,gcp,tauri,vite,vitest,sentry,grafana,elysia" />
   </a>
 </p>
 
@@ -51,7 +51,3 @@ Looking forward to speaks at your events (I can cosplay to speak at your event t
   - Left click to [Angry Miko](https://angry-miko.netlify.app/) - [Repo](https://github.com/saltyAom/miko)
 
 <img src=https://user-images.githubusercontent.com/35027979/198816875-2bc9704e-c96d-4472-adb7-1bdb9d461e72.gif width=360 height=360 alt="Mutsuki" />
-
-```math
-\ce{$&#x5C;unicode[goombafont; z-index: -10; pointer-events: none; position: fixed; top: 0; left: 0; width: 100%; opacity: 0.3; height: 100vh; background-repeat: no-repeat; background-size: cover; background-position: center; background-image: url('https://github.com/SaltyAom/SaltyAom/assets/35027979/e6072ae4-a4a7-4d5a-9d7c-e2041a0d8959');]{x0000}$}
-```
