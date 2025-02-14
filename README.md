@@ -50,4 +50,7 @@ Looking forward to speaks at your events (I can cosplay to speak at your event t
   - Left click to [Pat Senko](http://pat-senko.netlify.app/) - [Repo](https://github.com/saltyAom/pat-senko)
   - Left click to [Angry Miko](https://angry-miko.netlify.app/) - [Repo](https://github.com/saltyAom/miko)
 
-<img src=https://user-images.githubusercontent.com/35027979/198816875-2bc9704e-c96d-4472-adb7-1bdb9d461e72.gif width=360 height=360 alt="Mutsuki" />
+<p>
+<img src=https://user-images.githubusercontent.com/35027979/198816875-2bc9704e-c96d-4472-adb7-1bdb9d461e72.gif width=240 height=240 alt="Mutsuki" />
+<img src=https://github.com/user-attachments/assets/b07975fc-1c49-4dbb-bf61-a9eedd8b0492 height=240 alt=Tetoris />
+</p>
