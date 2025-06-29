@@ -12,9 +12,9 @@ Made [Elysia](https://elysiajs.com), an ergonomic framework for Humans.
 <!--- <img src=https://github.com/user-attachments/assets/dc19013a-3275-4cd8-ade4-ea122a8cddc8 alt="SaltyAom's Tingyun cosplay" /> --->
 
 <p align=center>
-  <img width=282 src=https://github.com/user-attachments/assets/3c9da948-d5de-488e-bd33-20fded873a17 alt="Just a quick selfie trust me" />
-  <img width=282 src=https://github.com/user-attachments/assets/8a298b01-b8a5-4fc6-ab9c-6a90a6a8ab33 alt="Yep this too, a quick selfie" />
-  <img width=282 src=https://github.com/user-attachments/assets/dca85d20-fb28-42f3-b9db-3d7025607f56 alt="Same as usual, just a quick selfie" />
+  <img width=257 src=https://github.com/user-attachments/assets/3c9da948-d5de-488e-bd33-20fded873a17 alt="Just a quick selfie trust me" />
+  <img width=257 src=https://github.com/user-attachments/assets/8a298b01-b8a5-4fc6-ab9c-6a90a6a8ab33 alt="Yep this too, a quick selfie" />
+  <img width=257 src=https://github.com/user-attachments/assets/dca85d20-fb28-42f3-b9db-3d7025607f56 alt="Same as usual, just a quick selfie" />
 </p>
 
 <p align=center>
