@@ -5,15 +5,9 @@ Made [Elysia](https://elysiajs.com), an ergonomic framework for Humans.
 
 <!--- ![SaltyAom's Raiden Shogun cosplay](https://github.com/SaltyAom/SaltyAom/assets/35027979/a5fb5435-79a2-4dc7-9eb8-dd6c8af5969e) --->
 
-<!--- <img src=https://github.com/SaltyAom/SaltyAom/assets/35027979/68725802-2675-4a11-ad45-eb1bcc3e5827 alt="SaltyAom's Nightingale cosplay" /> --->
-
-<!--- <img src=https://github.com/SaltyAom/SaltyAom/assets/35027979/0ad0cf6f-cfdc-4450-9113-d0b31342b907 alt="SaltyAom's Haruna cosplay" /> --->
-
-<!--- <img src=https://github.com/user-attachments/assets/dc19013a-3275-4cd8-ade4-ea122a8cddc8 alt="SaltyAom's Tingyun cosplay" /> --->
-
 <p align=center>
-  <img width=279 src=https://github.com/user-attachments/assets/3c9da948-d5de-488e-bd33-20fded873a17 alt="Just a quick selfie trust me" />
-  <img width=279 src=https://github.com/user-attachments/assets/8a298b01-b8a5-4fc6-ab9c-6a90a6a8ab33 alt="Yep this too, a quick selfie" />
+  <img width=279 src=https://github.com/user-attachments/assets/39224475-f0a1-4b62-997a-03a997dec059 alt="Just a quick selfie trust me" />
+  <img width=279 src=https://github.com/user-attachments/assets/33bdd731-25a1-433e-aecb-faa3873b4831 alt="Yep this too, a quick selfie" />
   <img width=279 src=https://github.com/user-attachments/assets/dca85d20-fb28-42f3-b9db-3d7025607f56 alt="Same as usual, just a quick selfie" />
 </p>
 
