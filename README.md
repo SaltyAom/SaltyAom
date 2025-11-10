@@ -7,7 +7,7 @@ Made [Elysia](https://elysiajs.com), an ergonomic framework for Humans.
 
 <p align=center>
   <img width=279 src=https://github.com/user-attachments/assets/39224475-f0a1-4b62-997a-03a997dec059 alt="Just a quick selfie trust me" />
-  <img width=279 src=https://github.com/user-attachments/assets/33bdd731-25a1-433e-aecb-faa3873b4831 alt="Yep this too, a quick selfie" />
+  <img width=279 src=https://github.com/user-attachments/assets/c4dafa6b-063e-4c02-9e76-335346e3449f alt="Yep this too, a quick selfie" />
   <img width=279 src=https://github.com/user-attachments/assets/dca85d20-fb28-42f3-b9db-3d7025607f56 alt="Same as usual, just a quick selfie" />
 </p>
 
