@@ -47,6 +47,8 @@ Would love to be at yours too
 - Left click to [Angry Miko](https://angry-miko.netlify.app/) - [Repo](https://github.com/saltyAom/miko)
 
 <p>
-<img src=https://user-images.githubusercontent.com/35027979/198816875-2bc9704e-c96d-4472-adb7-1bdb9d461e72.gif width=240 height=240 alt="Mutsuki" />
-<img src=https://github.com/user-attachments/assets/b07975fc-1c49-4dbb-bf61-a9eedd8b0492 height=240 alt=Tetoris />
+<img src=https://user-images.githubusercontent.com/35027979/198816875-2bc9704e-c96d-4472-adb7-1bdb9d461e72.gif width=279 alt="Mutsuki" />
+<img src=https://github.com/user-attachments/assets/b07975fc-1c49-4dbb-bf61-a9eedd8b0492 height=279 alt=Tetoris />
+<img src=https://github.com/user-attachments/assets/13827dcb-b725-4852-9c90-9a7d83d8e079 height=279 alt="CUAYO!!" />
 </p>
+
